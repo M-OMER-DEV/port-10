@@ -142,7 +142,7 @@
             </div> <!-- s-intro__content-media -->
 
             <div class="s-intro__btn-download">
-                <a class="btn btn--stroke" href="https://drive.google.com/file/d/1HDOB0-PuQbgcaF3XYvJEo3kmhMYL0xop/view?usp=sharing">Get My CV</a>
+                <a class="btn btn--stroke" href="https://drive.google.com/file/d/1xgiBeJJdCdRGtd1tQcLotD3ZPY8Ubklm/view?usp=sharing">Get My CV</a>
             </div> <!-- end s-intro__btn-download -->
 
             <div class="s-intro__scroll-down">
@@ -594,7 +594,7 @@
                 </div>
 
                 <div class="column xl-6 tab-12">
-                    <a href="https://drive.google.com/file/d/1HDOB0-PuQbgcaF3XYvJEo3kmhMYL0xop/view?usp=sharing" class="btn btn--stroke btn--large u-fullwidth">Get My CV</a>
+                    <a href="https://drive.google.com/file/d/1xgiBeJJdCdRGtd1tQcLotD3ZPY8Ubklm/view?usp=sharing" class="btn btn--stroke btn--large u-fullwidth">Get My CV</a>
                 </div>
 
             </div> <!-- end section-footer__buttons -->
