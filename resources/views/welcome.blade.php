@@ -142,7 +142,7 @@
             </div> <!-- s-intro__content-media -->
 
             <div class="s-intro__btn-download">
-                <a class="btn btn--stroke" href="https://drive.google.com/file/d/1xgiBeJJdCdRGtd1tQcLotD3ZPY8Ubklm/view?usp=sharing">Get My CV</a>
+                <a class="btn btn--stroke" href="https://drive.google.com/file/d/14vdb-pImxhnajV2XQYIGqZqbq8_e0MiE/view?usp=sharing">Get My CV</a>
             </div> <!-- end s-intro__btn-download -->
 
             <div class="s-intro__scroll-down">
@@ -594,7 +594,7 @@
                 </div>
 
                 <div class="column xl-6 tab-12">
-                    <a href="https://drive.google.com/file/d/1xgiBeJJdCdRGtd1tQcLotD3ZPY8Ubklm/view?usp=sharing" class="btn btn--stroke btn--large u-fullwidth">Get My CV</a>
+                    <a href="https://drive.google.com/file/d/14vdb-pImxhnajV2XQYIGqZqbq8_e0MiE/view?usp=sharing" class="btn btn--stroke btn--large u-fullwidth">Get My CV</a>
                 </div>
 
             </div> <!-- end section-footer__buttons -->
@@ -631,7 +631,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js" referrerpolicy="no-referrer"></script>
      <script>
          var typed = new Typed('.typing', {
-         strings: ['','Designer.', 'Developer.', 'Freelancer.',],
+         strings: ['','Designer.', 'Developer.', 'DevOp.',],
          typeSpeed: 120,
          BackSpeed: 60,
          loop: true
